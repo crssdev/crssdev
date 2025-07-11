@@ -1,5 +1,4 @@
-﻿# 👋 Seja bem vindo(a)!
-![GitHub Banner](./images/banner.png)
+﻿![GitHub Banner](./images/banner.png)
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=crssdev&label=Profile%20views&color=blue&style=flat" alt="Visualizações do perfil" />  
   <a href="https://github.com/crssdev?tab=followers">
@@ -10,9 +9,9 @@
 ## 
 ```yaml
 💻 Desenvolvedor Sênior - Glow Games  
-🎯 Soluções desafiadoras e inovadoras.  
-⚡ Desenvolvendo desde os 12 anos de idade!
-🌱 Cloud Computing | DevOps | Inteligência Artificial 
+Soluções desafiadoras e inovadoras.  
+Desenvolvendo desde os 12 anos de idade!
+Cloud Computing | DevOps | AI 
 ```
 ##
 <div>
