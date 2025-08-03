@@ -7,13 +7,7 @@
 </p>
 
 ## 
-```yaml
-💻 Desenvolvedor Sênior - Glow Games  
-Soluções desafiadoras e inovadoras.  
-Desenvolvendo desde os 12 anos de idade!
-Cloud Computing | DevOps | AI 
-```
-##
+
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
@@ -61,4 +55,5 @@ Cloud Computing | DevOps | AI
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
 
