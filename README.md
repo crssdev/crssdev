@@ -1,4 +1,3 @@
-﻿![GitHub Banner](./images/banner.png)
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=crssdev&label=Profile%20views&color=blue&style=flat" alt="Visualizações do perfil" />  
   <a href="https://github.com/crssdev?tab=followers">
@@ -55,5 +54,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
 
 
