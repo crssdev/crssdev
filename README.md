@@ -49,11 +49,11 @@
 
 </div>
 <div align="center">
-  <h3>Transformando ideias em realidade através da tecnologia!</h3>
   <a href="mailto:christoferbahr.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
 
 
 
